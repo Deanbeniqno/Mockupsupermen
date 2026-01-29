@@ -1,7 +1,6 @@
 
   # User Registration Flow
 
-  This is a code bundle for User Registration Flow. The original project is available at https://www.figma.com/design/krjKPg4CVSJ99XQelwciJU/User-Registration-Flow.
 
   ## Running the code
 
